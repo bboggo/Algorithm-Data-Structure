@@ -1,3 +1,3 @@
 text = input()
-f = float(text)
-print(f)
+num = int(text)
+print(num)
