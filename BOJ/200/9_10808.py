@@ -1,4 +1,3 @@
-import sys
 n = input()
 alp = [0] * 26
 for i in n:
