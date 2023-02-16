@@ -1,10 +1,7 @@
 while(True):
     try:
         n = input()
-        small = 0
-        big = 0
-        num = 0
-        nul = 0
+        small, big, num, nul = 0, 0, 0, 0
         for i in n:
             if i.isupper():
                 big += 1
